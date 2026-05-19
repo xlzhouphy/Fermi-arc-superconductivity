@@ -1,0 +1,17 @@
+font.size: 7.5
+figure.figsize: 3.386, 2.093  # Single column figure width: 8.6 cm, double column figure width: 17.8 cm
+figure.constrained_layout.use: True
+axes.titlesize: medium
+lines.linewidth: 0.8
+lines.markersize: 3
+#lines.markeredgecolor: black
+lines.markeredgewidth: 0.8
+legend.frameon: False
+scatter.edgecolors: black
+patch.linewidth: 0.8
+xtick.direction: in
+ytick.direction: in
+savefig.format: pdf
+#savefig.bbox: tight  # This can mess up with constrained layout, which is already adequate
+savefig.transparent: True
+pdf.fonttype: 42
