@@ -1,4 +1,4 @@
-# Exact Theory of Superconductivity in a Strongly Correlated Fermi-Arc Model
+# Tracking unconventional superconductivity in the presence of strongly correlated Fermi arcs
 
 [![arXiv](https://img.shields.io/badge/arXiv-2603.24977-b31b1b.svg)](https://arxiv.org/abs/2603.24977)
 
