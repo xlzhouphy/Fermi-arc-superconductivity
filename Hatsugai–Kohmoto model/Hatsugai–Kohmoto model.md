@@ -1,4 +1,4 @@
-## Hatsugai–Kohmoto model （normal state）
+## Hatsugai–Kohmoto model (normal state)
 
 $H_{\mathrm{HK}}=\sum_k H_k=\sum_k\left(\xi_k\left(n_{k \uparrow}+n_{k \downarrow}\right)+U n_{k \uparrow} n_{k \downarrow}\right)$
 
